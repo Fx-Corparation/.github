@@ -40,6 +40,7 @@ Every product under the **Fx corp** umbrella follows a strict design paradigm:
 We are a tight-knit collective of backend engineers, system architects, and AI developers. 
 
 *   **Lead / Backend & AI Engineer:** [@FunnyNosok](https://github.com/FunnyNosok)
+*   **FullStack Developer:** [@DarkBlade](https://github.com/DarkBlade)
 
 ---
 
